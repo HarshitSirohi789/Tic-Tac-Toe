@@ -1,0 +1,1 @@
+Tic Tac Toe Game- Developed an interactive Tic Tac Toe game using HTML, CSS, and JavaScript. The project showcases front-end development skills, dynamic interactivity, winning logie, score tracking, and game controls. Implemented clean UI and improved game logic handling.
